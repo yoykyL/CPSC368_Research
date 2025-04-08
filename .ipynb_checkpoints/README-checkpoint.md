@@ -13,12 +13,16 @@ California's healthcare quality change between different presidencies in 2016 vs
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Required Packages and Libraries:
+* `os`
+* `pandas`
+* `altair`
+* `pipe`
+* 
 
 ### Files
 
-* `DataCleaning.ipynb` : Contains the data cleaning of original datasets, EDA, and the codes that dynamically generate the SQL "INSERT" statements.
+* `Codes1.ipynb` : Contains the data cleaning of original datasets, EDA, and the codes that dynamically generate the SQL "INSERT" statements.
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
@@ -39,17 +43,15 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+**CPSC 368 - Group AAA**
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Kunyue Liu
+* Aryan Jain
+* Chrysta Luo
 
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+The GitHub repository that stores all the required files and tracks the project process. 
+[Group Repository](https://github.com/yoykyL/CPSC368_Research#)
+
