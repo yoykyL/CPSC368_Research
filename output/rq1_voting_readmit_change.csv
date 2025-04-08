@@ -1,0 +1,58 @@
+County,Win_2016,Win_2020,Readmit_2016,Readmit_2020,Rate_Change
+Alameda,Blue,Blue,14.97,15.28,0.31
+Alpine,Blue,Blue,4.76,28.57,23.81
+Amador,Red,Red,13.86,14.21,0.35
+Calaveras,Red,Red,13.95,13.52,-0.43
+Colusa,Red,Red,12.46,13.73,1.27
+Contra Costa,Blue,Blue,14.53,14.89,0.36
+Del Norte,Red,Red,10.1,9.54,-0.56
+El Dorado,Red,Red,13.77,14.51,0.74
+Fresno,Blue,Blue,16.4,15.23,-1.17
+Glenn,Red,Red,14.52,14.52,0.0
+Humboldt,Blue,Blue,12.01,12.33,0.32
+Imperial,Blue,Blue,15.01,14.04,-0.97
+Inyo,Red,Blue,10.17,10.64,0.47
+Kern,Red,Red,13.32,13.56,0.24
+Kings,Red,Red,15.33,14.6,-0.73
+Lake,Blue,Blue,15.72,14.75,-0.97
+Lassen,Red,Red,11.21,9.61,-1.6
+Los Angeles,Blue,Blue,15.77,15.18,-0.59
+Madera,Red,Red,15.14,13.61,-1.53
+Marin,Blue,Blue,11.76,12.61,0.85
+Mariposa,Red,Red,13.79,12.71,-1.08
+Mendocino,Blue,Blue,12.91,13.86,0.95
+Merced,Blue,Blue,15.5,15.2,-0.3
+Modoc,Red,Red,9.24,13.31,4.07
+Mono,Blue,Blue,10.06,10.95,0.89
+Monterey,Blue,Blue,11.61,13.16,1.55
+Napa,Blue,Blue,13.61,14.45,0.84
+Nevada,Blue,Blue,14.23,13.22,-1.01
+Orange,Blue,Blue,13.47,13.25,-0.22
+Placer,Red,Red,11.66,12.15,0.49
+Plumas,Red,Red,11.8,11.75,-0.05
+Riverside,Blue,Blue,14.48,13.91,-0.57
+Sacramento,Blue,Blue,14.26,14.85,0.59
+San Benito,Blue,Blue,12.22,13.98,1.76
+San Bernardino,Blue,Blue,14.97,14.25,-0.72
+San Diego,Blue,Blue,13.77,13.92,0.15
+San Francisco,Blue,Blue,14.81,15.24,0.43
+San Joaquin,Blue,Blue,14.79,15.21,0.42
+San Luis Obispo,Blue,Blue,11.61,12.71,1.1
+San Mateo,Blue,Blue,12.82,12.99,0.17
+Santa Barbara,Blue,Blue,11.72,11.67,-0.05
+Santa Clara,Blue,Blue,14.18,14.4,0.22
+Santa Cruz,Blue,Blue,11.06,12.54,1.48
+Shasta,Red,Red,11.87,12.96,1.09
+Sierra,Red,Red,11.36,11.58,0.22
+Siskiyou,Red,Red,10.27,10.39,0.12
+Solano,Blue,Blue,14.53,14.75,0.22
+Sonoma,Blue,Blue,12.24,13.37,1.13
+Stanislaus,Blue,Blue,13.55,14.08,0.53
+Sutter,Red,Red,14.08,14.33,0.25
+Tehama,Red,Red,13.22,12.7,-0.52
+Trinity,Red,Red,12.39,12.27,-0.12
+Tulare,Red,Red,14.54,14.12,-0.42
+Tuolumne,Red,Red,14.97,14.35,-0.62
+Ventura,Blue,Blue,13.64,14.2,0.56
+Yolo,Blue,Blue,13.41,14.05,0.64
+Yuba,Red,Red,15.36,15.78,0.42
