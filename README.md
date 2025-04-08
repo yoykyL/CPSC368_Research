@@ -18,7 +18,7 @@ California's healthcare quality change between different presidencies in 2016 vs
 
 ### Files
 
-* `DataCleaning.ipynb` : Contains the data cleaning of original datasets and the codes that dynamically generate the SQL "INSERT" statements.
+* `DataCleaning.ipynb` : Contains the data cleaning of original datasets, EDA, and the codes that dynamically generate the SQL "INSERT" statements.
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
