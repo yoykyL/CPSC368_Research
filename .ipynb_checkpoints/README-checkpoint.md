@@ -47,13 +47,6 @@ Required Packages and Libraries:
 * cell[14]: the codes to get the statistics for question 2
 * cell[15]: the codes to plot the visualizations for question 3
 
-## Notice
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 **CPSC 368 - Group AAA**
